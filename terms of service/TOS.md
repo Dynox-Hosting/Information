@@ -1,6 +1,6 @@
 <h1 align="center">Dynox Terms of Service</h1>
 
-Last Updated: 10/07/2021
+**Last Updated: 15/07/2021**
 
 This is an agreement between you (the "client", "you", "your") and the company Dynox Host ("we", "our", "us"). By using our website services and/or Discord services, you agree to the terms and conditions stated in this document.
 
@@ -56,7 +56,7 @@ You do not "own" servers you have access to. You are responsible for managing th
 * Cryptocurrency miners
 * Servers which infringe [Discord's Terms of Service](https://discord.com/terms)
 * Minecraft servers
-* Servers which distribute confidential information (see [section 2](#User_Conduct)).
+* Servers which distribute confidential information (see [section 2](#user-conduct)).
 
 <h2 align="center">Termination</h2>
 
@@ -66,7 +66,7 @@ Dynox Host reserves the right to suspend and/or terminate any servers or service
 
 Excessive resource usage can constitute any form of server usage calculated and determined at the discretion of Dynox Host officials. Dynox Host reserves the right to suspend service at any time without prior notice if or when the health or normal running/performance of a service is affected/degraded by a website or bot.
 
-Dynox Host officials will attempt to contact you if your server has been suspended for extended inactivity. If we are unable to contact you, your server will be terminated; we will not be liable for any content lost.
+Dynox Host officials will attempt to contact you if your server has been suspended for extended inactivity. If we are unable to contact you, or you have not retrieved your content within 2 days, your server will be terminated; we will not be liable for any content lost.
 
 <h3 align="center">Accounts</h3>
 
@@ -79,8 +79,10 @@ Dynox Host reserves the right to terminate your account immediately as well as a
 * Engagement by you in fraudulent and/or other illegal activities
 * Non-payment or chargeback of any fees owed by you in connection with our services.
 
-Dynox Host officials will attempt to contact you if your account has been inactive for an extended period of time. If we are unable to contact you, your account will be terminated, as well as any servers or connected services; we will not be liable for any content lost.
+Dynox Host officials will attempt to contact you if your account has been inactive for an extended period of time. If we are unable to contact you, or you have not been active on your account wtihin 2 days after contact, your account will be terminated, as well as any servers or connected services; we will not be liable for any content lost.
 
 <h2 align="center">TOS Modifications</h2>
 
 Dynox Host reserves the right to revise this document at any time without prior notice. By using our services, you are agreeing to be bound by the current version of these terms and conditions.
+
+<p align="center"><strong><a href="https://dynox.us/">&copy; 2021 Dynox Hosting</a></strong></p>
